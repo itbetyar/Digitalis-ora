@@ -9,4 +9,4 @@ Idő bekérése és használata. Valamint kezelőfelületet (GUI) is létrehozun
 
 Itt láthatod, hogy fog kinézni:
 
-<img src="https://github.com/itbetyar/Digitalis-ora/blob/main/digitalis-ora.jpg" alt="Alt text" width="600">
+<img src="https://github.com/itbetyar/Digitalis-ora/blob/main/digitalis-ora2.webp" alt="Alt text" width="600">
